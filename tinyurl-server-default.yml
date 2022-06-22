@@ -1,1 +1,2 @@
 aws.test: aws.test-value2-tinyurl
+shorturl.base.url: "www.localhost:8090"
